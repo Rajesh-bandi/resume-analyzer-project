@@ -1,0 +1,13 @@
+python
+sql
+machine learning
+data analysis
+deep learning
+pandas
+numpy
+scikit-learn
+power bi
+tableau
+excel
+tensorflow
+nlp
